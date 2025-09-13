@@ -16,7 +16,8 @@ The goal is to strengthen query writing, joins, aggregations, and window functio
 
 ---
 
-## 🚀 Progress
+## 🚀 Progress  ![Progress](https://img.shields.io/badge/Progress-3%2F50-brightgreen?style=for-the-badge)
+
 ## ✅ Select
 - [x] Recyclable and Low Fat Products
 - [x] Find Customer Referee
@@ -94,6 +95,12 @@ The goal is to strengthen query writing, joins, aggregations, and window functio
 - [ ] Find Users With Valid E-Mails
 
 ---
+## 📈 Progress
+
+Solved: **3 / 50** problems
+
+Progress: ███░░░░░░░░░░░░░░░░░ (6%)  
+
 
 ## 🎯 Progress
 - ✅ Completed: **3 / 50**
