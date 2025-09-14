@@ -22,7 +22,7 @@ The goal is to strengthen query writing, joins, aggregations, and window functio
 - [x] Recyclable and Low Fat Products
 - [x] Find Customer Referee
 - [x] Big Countries
-- [ ] Article Views I
+- [x] Article Views I
 - [ ] Invalid Tweets
 
 ---
